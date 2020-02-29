@@ -1,5 +1,5 @@
 # ESP32-ACV-Tester
-ESP32 automatic cell voltage tester; enters cell voltage via BLE keyboard connection
+ESP32 automatic cell voltage tester. Detects a cell (voltage >200mV) and types the cell voltage via BLE keyboard connection on a computer or phone.
 
 ## Dependencies
 To build this project, you will need Arduino IDE, ESP32 in Arduino, and the following 2 libraries:
